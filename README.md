@@ -1,5 +1,12 @@
 # 🚀 ElasticSearch, GraphQL, React, Node+Express🤯! How ?
 
+Production verison of the below tutorial.
+Should be no need to edit this.
+It's hosted at https://614db8277065ae000898cba7--confident-saha-9cca34.netlify.app/
+It pulls automatically from the heroku/bonsai backend 
+
+# The original tutorial
+
 Simple application using React+GraphQL, ElasticSearch as full-text search and Node JS
 [medium.com/@andrewrymaruk](https://medium.com/@andrewrymaruk/elasticsearch-graphql-react-node-express-how-cb2c2cc708f8)
 
